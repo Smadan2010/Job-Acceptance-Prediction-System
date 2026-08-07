@@ -1,0 +1,10 @@
+MODEL INFORMATION
+===================================================
+model_type: XGBoost
+test_accuracy: 0.9024
+roc_auc: 0.9662254628702094
+f1_score: 0.8370073480293921
+cv_mean: 0.9678339885016936
+cv_std: 0.000380231851538971
+num_features: 39
+target_mapping: {'0': 'Not Accepted', '1': 'Accepted'}
